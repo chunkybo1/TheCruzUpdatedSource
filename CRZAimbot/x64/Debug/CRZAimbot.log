@@ -1,0 +1,10 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Main.cpp
+C:\Users\chach\Desktop\Direct-EFI-Apex-132-main\CRZAimbot\Main.cpp(551,25): warning C4305: '=': truncation from 'int' to 'bool'
+C:\Users\chach\Desktop\Direct-EFI-Apex-132-main\CRZAimbot\Main.cpp(563,30): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Driver.cpp
+  Entity.cpp
+  Math.cpp
+  MemProtector.cpp
+  Generating Code...
+  CRZAimbot.vcxproj -> C:\Users\chach\Desktop\Direct-EFI-Apex-132-main\x64\Debug\CRZAimbot.dll
